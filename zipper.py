@@ -12,8 +12,10 @@ def zip_files():
         "diabetes.ipynb",
         "README.md",
         "requirements.txt",
+        "Abstract.pdf",
         "img/",
-        "data/"
+        "all_data/"
+        "diabetes_data/"
     ]
     
     with zipfile.ZipFile(zip_filename, 'w', zipfile.ZIP_DEFLATED) as zipf:
