@@ -12,7 +12,7 @@ def zip_files():
         "diabetes.ipynb",
         "README.md",
         "requirements.txt",
-        "Abstract.pdf",
+        # "Abstract.pdf",
         "img/",
         "all_data/"
         "diabetes_data/"
